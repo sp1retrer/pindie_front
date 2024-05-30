@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://sabamolodec-3001.nomoredomainswork.ru/api'
+export const BASE_URL = 'https://sp1retrer.backend.nomorepartiesco.ru/api';
 //export const BASE_URL = 'http://localhost:3001/api'
 //export const BASE_URL = 'https://api-code-2.practicum-team.ru'
 
