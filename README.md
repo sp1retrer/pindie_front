@@ -1,1 +1,1 @@
-Мой бэкенд: https://sabamolodec-3001.nomoredomainswork.ru/
+Мой бэкенд: https://sp1retrer.backend.nomorepartiesco.ru
